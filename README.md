@@ -5,6 +5,7 @@ for crypto projects. Everything here is MIT unless a repo says otherwise.
 
 **Hire me:** paid tool builds, pre-deploy contract reviews and bug fixes, priced per task and paid in crypto.
 Open an issue on [apeirs/apeirs](https://github.com/apeirs/apeirs/issues) with the task and your budget.
+Pre-deploy Clarity reviews have a fixed price: [15,000 sats per contract](clarity-reviews.md).
 
 ## Neo N3
 
